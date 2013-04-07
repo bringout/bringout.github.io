@@ -1,0 +1,114 @@
+<item>
+	<title>Ponuda otvoreni vs zatvoreni software - pošten odnos prema klijentima</title>
+	<link>http://www.bring.out.ba/posten-odnos-prema-klijentima</link>
+	<pubDate>Mon May 21 00:48:00 -0700 2012</pubDate>
+	
+	<dc:creator><![CDATA[bring.out doo Sarajevo]]></dc:creator>
+	
+	
+
+	<category><![CDATA[Uncategorized]]></category>
+
+	<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+
+  <guid isPermaLink="false">http://www.bring.out.ba/posten-odnos-prema-klijentima</guid>
+	<description></description>
+	<content:encoded><![CDATA[<p>Na primjer na&scaron;e <a href="http://www.bring.out.ba/primjer-ponude-f18-ubuntulinux-novi-klijent">Ubuntu/F18 ponude</a> dobili smo sljedeći komentar:&nbsp;</p>
+<div>
+<blockquote>MS_vendor je rekao:<p />Računica ti je za MS sistem potpuno pogre&scaron;na. Običan klijent W7 (starter) ko&scaron;ta 95KM, MS SQL Server Express 2008 R2 je besplatan i podržava do 10GB veličinu baze i ne treba mu serverski OS da bi se mogao instalirati. Serverski sistemi i full SQL server trebaju samo nekome ko koristi domenu i prelazi veličine baze od 10GB. A koliko je takvih među mojim i tviojim klijentima? Jako malo ili nimalo.Pratim i po&scaron;tujem to &scaron;to radite sa open-source software-om, ali budimo po&scaron;teni kad se gađamo ciframa. User vulgaris samo njih i vidi.<span style="color: #444444; font-size: 12px; line-height: 18px;">&nbsp;</span></blockquote>
+</div>
+<p>@MS_vendor, hvala na komentaru.</p>
+<p>Drago mi je da možemo otvoreno diskutovati na ovu temu.</p>
+<p>Bilo bi jo&scaron; bolje da si se predstavio, pa da i mi možemo staviti komentar na tvoju i sličnu ponudu.</p>
+<p>Ali dobro, potpuna otvorenost valjda ne ide uz tehnologije koje nudite :)</p>
+<p>&gt; Običan klijent W7 (starter) ko&scaron;ta 95KM</p>
+<p>Bilo mi je poprilično te&scaron;ko doći do pregleda opcija OS-a koji nudi&scaron; svojim klijentima, jer se taj proizvod čak i ne nalazi&nbsp;u <a href="http://windows.microsoft.com/en-us/windows7/products/compare">standardnom pregledu Windows 7 edicija</a>.</p>
+<p>Očigledno da W7 Starter edicija nije "perjanica" Microsoft-ove ponude.</p>
+<p><!--more--></p>
+<p>Na kraju sam ipak do&scaron;ao do verzije koju pominje&scaron;:</p>
+<p><a href="http://windows.microsoft.com/en-NZ/windows7/products/windows-7-starter-top-questions">http://windows.microsoft.com/en-NZ/windows7/products/windows-7-starter-top-qu...</a></p>
+<p>Tačno je da na W7 Starter OS-u bez problema može raditi software koji nudimo svojim klijentima.</p>
+<p>Međutim, klijent za koga smo pripremili ponudu već posjeduje računare bez validnih licenci.</p>
+<p>Njemu se <strong>NE MOŽE</strong>&nbsp;ponuditi nijedna <a href="http://www.microsoft.com/oem/en/licensing/sblicensing/pages/transfer_oem_licenses.aspx">OEM licenca</a>, pa ni W7 Starter koji se prodaje samo u OEM kanalima. OEM licence su validne samo kada se isporuče uz nov računar.</p>
+<p>Oni koji su svojim klijentima retroaktivno isporučivali OEM licence prekr&scaron;ili su odredbe svog ugovora sa Microsoftom. Pored toga, njihovi kupci de-facto nemaju validne licence.&nbsp;</p>
+<p>Jedina opcija koju je Microsoft na bosanskom trži&scaron;tu ponudio su legalizacijske licence koje ko&scaron;taju cca 400 KM po računaru, &scaron;to je inače standardna cijena &nbsp;za za "retail" (prenosive licence).&nbsp;</p>
+<p>To je jedina <strong>po&scaron;tena</strong> opcija za klijenta koji već posjeduje računare. Sve ostalo je varanje koje nije te&scaron;ko otkriti.</p>
+<p>Budite po&scaron;teni prema klijentima. Objasnite im &scaron;ta su OEM, &scaron;ta retail licence.&nbsp;</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Piratski software, jefitne i "free" licence kao mamac</strong></span></p>
+<p>Vezano za serversku infrastrukturu bez serverskog OS-a, instalacija free expres <a href="http://www.microsoft.com/sqlserver/en/us/editions/2012-editions/express.aspx">Microsoft SQL server</a>-a je takođe moguća.</p>
+<p>Standardna MS bazirana ponuda bosanskim korisnicima upravo počinje sa tim licencama.</p>
+<p>Ponavljam "počinje". U mnogim situacijama te free i jeftine OS varijante su <span style="font-size: medium; color: #ff0000;"><strong>mamac</strong></span>.</p>
+<p>Kao &scaron;to je mamac prećutna dozvola da se u "banana" državama instalira nelegalni software, da bi se u određenom trenutku krenulo u legalizaciju.</p>
+<p>Modeli legalizacije ovise o tome koliko je "banana" država spremna da brani interese svoih građana.</p>
+<p>U Bosni je država dozvolila besramnu pljačku. Tačnije, državne institucije su bile glavni nosioci te pljačke.&nbsp;</p>
+<p>IT firme koje su do juče svojim klijentima besramno instalirali piratski software preko noći (javno ili tajno u svojim servisima) su preko noći postali Microsoft vendori. Prodavci Microsoft legalizacijskih markica.&nbsp;</p>
+<p>Budimo po&scaron;teni pa to priznajmo.</p>
+<p>Ponovo lapsus: "Budite po&scaron;teni".&nbsp;</p>
+<p>Mi smo bili po&scaron;teni pa smo svojim klijentima obja&scaron;njavali da je to "taksa na budale", da je suludo kupovati legalizacijske licence na P4 računare čija je trži&scaron;na vrijednost manja od 100 KM.</p>
+<p>Vjerovatno iz tog razloga na&scaron;a firma nije prodala nijednu legalizacijsku licencu.&nbsp;</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Business infrastruktura</strong></span></p>
+<p>Vratimo se na ponudu klijentima.</p>
+<p>Sve to međutim nisu <strong>BUSINESS</strong> instalacije. To će vam uvijek i sam proizvođač u svojim pregledima proizvoda reći.</p>
+<p>Da li su potrebne business instalacije malom bosanskom korisniku ?&nbsp;</p>
+<p>Nekada doista ne. Jednoj piljari ili pekari koja nema namjeru da &scaron;iri svoj biznis je dovoljno ono MS_vendor nudi sa stanovi&scaron;ta licenici.</p>
+<p>Međutim, za&scaron;to se sve svodi na računicu &scaron;ta mi je danas dovoljno ? &nbsp;</p>
+<p>Zar ponuda IT vendora treba biti ograničena isključivo na trenutno stanje korisnika ?</p>
+<p>Zar sa legalizacijom nismo naučili lekciju da razmi&scaron;ljamo unaprijed.</p>
+<p>Zar ćemo prihvatati sugestije nazovi "IT" vendora koji su nam do juče nudili&nbsp;&nbsp;MS office + Windows 7 Ultimate "džaba" ?&nbsp;</p>
+<p>Zar nismo naučili da je "džaba" nespojivo sa biznisom.&nbsp;</p>
+<p>Naposlijetku, zar i te mali biznisi ne bi trebali imati ambiciju da svoj biznis grade i dalje razvijaju ?</p>
+<p>Zar mi doista u svakoj sferi djelovanja moramo biti moramo biti dovijeka zadnja "rupa na svirali" ?</p>
+<p>Vratimo se konkretnoj ponudi.</p>
+<p>U slučaju primjera ponude koju smo publikovali klijent ima 6 dislociranih maloprodajnih objekata + 3 računara u knjigovodstvu.</p>
+<p>Ponuda bazirana na MS SQL server express je inferiorna u odnosu na infrastrukturu koju mi nudimo.</p>
+<p>PostgreSQL server koji mi nudimo nema nikakve vje&scaron;tačke limite. MS_vendor navodi ograiničenja količine podataka koja, tačno je, u najvećem broju situacija nisu problem.</p>
+<p>Free SQL server verzije (sličnu ponudu imaju i drugi zatvoreni database provajderi - Oracle, IBM) imaju ograničenja po pitanju većine naprednih funkcija koje su u poslovnim primjenama od velike važnosti.</p>
+<p>Nave&scaron;ću one koje smatram posebno interesantnim:</p>
+<p><span style="font-size: medium;"><strong>Replikacija diclociranih sa centralnom bazom</strong></span></p>
+<p>Ako vezu između maloprodaja i centralne baze podataka želimo realizovati putem replikacije SQL baza POS-a i centralne da li je to moguće realizovati sa &nbsp;MS SQL Express-om ?</p>
+<p>Koliko je meni poznato MS Express to ne omogućava.</p>
+<p>Bez obzira &scaron;to su podaci u pojedinih POS baza maleni, replikacija sa centralnim serverom bi tražila business licence na svim stranama - kako u centrali tako i na serverskoj strani.&nbsp;</p>
+<p>Na&scaron;a ponuda nije opterećena ovakvim rje&scaron;enjima.</p>
+<p>Mi svojim klijentima možemo u budućnosti možemo ponuditi ova rje&scaron;enja, pri čemu će opet opterećenje licencama biti 0 KM.</p>
+<p><strong><span style="font-size: medium;">Redundatnost podataka, skaliranje</span></strong></p>
+<p>Želimo povećati performanse tako da imamo jednu bazu za čitanje a drugu za pisanje.</p>
+<p>Želimo obezbjediti active-pasive failover sistem.</p>
+<p>Sve ove funkcije mi možemo obezbjediti nadogradnjom sistema, dok u Free SQL/NON-server OS traži gradnju takvog sistema izpočetka. Bri&scaron;i jefitno, dodaj silne tro&scaron;kove za licence ...</p>
+<p>Ukratko korisnik dolazi u situaciju da gradi pravu poslovnu infrastrukturu od početka.</p>
+<p>Stoga postoji veliki rizik za korisnika da mu se u skoroj budućnosti desi da:</p>
+<ul>
+<li>Upadne u nesvijest od Microsoft business licenci</li>
+<li>IT vendor će mu umjestno nadogradnje ponuditi gradnju sistema ispočetka, &scaron;to je uvijek skuplje od nadogradnje</li>
+</ul>
+<p>Gradivne komponente koje MS_vendor predlaže su zato po nama lo&scaron; izbor za korisnika.</p>
+<p>Mi svakom poslovnom korisniku koji želi na desktopu Windows OS nudimo Windows PRO OS.</p>
+<p>Bez obzira koliki je njegov biznis. To je OS za poslovnog korisnika, &nbsp;W7 starter je OS za "oko kuće".</p>
+<p>Zato smo na stanovi&scaron;tu da su na&scaron;a rje&scaron;enja ne samo jeftinija nego prije svega bolja <strong>BOLJA</strong>.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Na&scaron;a iskustava kao Microsoft vendora&nbsp;</strong></span></p>
+<p>Kada smo nudili svojevremeno Microsoft rje&scaron;enja, &nbsp;i mi smo vođeni činjenicom da su većina na&scaron;ih klijenata mali korisnici tragali za rje&scaron;enjima koja na&scaron; klijent može podnijeti.</p>
+<p>Tako smo mi nudili Microsoft server SBS (Small business server) rje&scaron;enje.</p>
+<p>Rje&scaron;enje nije skupo. Ko&scaron;talo je cca 1500-2000 KM. U paketu dobije&scaron; 5 CAL (client access licenci) i kompletan set udarnih serverskih proizvoda MS-a.</p>
+<p>I sve je to OK dok ne dođe&scaron; do tačke da dokupljuje&scaron; dodanih 5, 10 CAL-ova ...</p>
+<p>Tada Microsoft sve lijepo naplati sa dobrom kamatom.</p>
+<p>Kako nismo prodavali pirateriju,&nbsp;tako nam ni posao sa rje&scaron;enjima kao &scaron;to je Microsoft SBS nije posebno dobro i&scaron;ao.</p>
+<p>Na&scaron;im klijentima je i to bilo skupo jer je konkurencija nudila "rje&scaron;enja" kod kojih su tro&scaron;kovi licenci bili 0.</p>
+<p>Ne znam da li je MS_vendor prije legalizacije nudio svojim klijentima piratski software.&nbsp;</p>
+<p>Mnogi IT vendori na bosanskom trži&scaron;tu jesu.&nbsp;</p>
+<p>Većina, da budemo po&scaron;teni.</p>]]></content:encoded>
+	<excerpt:encoded><![CDATA[Na primjer naše Ubuntu/F18 ponude dobili smo sljedeći komentar: MS_vendor je rekao:Računica ti je za MS sistem potpuno pogrešna. Običan klijent W7 (starter) košta 95KM, MS SQL Server Express 2008 R2 je besplatan i podržava do 10GB veličinu baze i ...]]></excerpt:encoded>	
+
+	<wp:post_date>Mon May 21 00:48:00 -0700 2012</wp:post_date>
+	<wp:post_date_gmt>Mon May 21 00:48:00 -0700 2012</wp:post_date_gmt>
+	<wp:comment_status>open</wp:comment_status>
+	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>132284516</wp:post_id>
+	<wp:post_name>posten-odnos-prema-klijentima</wp:post_name>
+	<wp:status>publish</wp:status>
+	<wp:post_parent>0</wp:post_parent>
+	<wp:menu_order>0</wp:menu_order>
+	<wp:post_type>post</wp:post_type>
+	<wp:post_password></wp:post_password>
+	<wp:is_sticky>0</wp:is_sticky>
+
+	
+</item>

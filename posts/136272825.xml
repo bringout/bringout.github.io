@@ -1,0 +1,167 @@
+<item>
+	<title>nPIS aplikacija Porezne uprave FBiH ne radi pod non-Windows sistemima, provjereno</title>
+	<link>http://www.bring.out.ba/npis-aplikacija-porezne-uprave-fbih-ne-radi-p</link>
+	<pubDate>Wed Jun 06 00:12:00 -0700 2012</pubDate>
+	
+	<dc:creator><![CDATA[bring.out doo Sarajevo]]></dc:creator>
+	
+	
+		<category domain="tag" nicename="Ubuntu"><![CDATA[Ubuntu]]></category>
+	
+
+	<category><![CDATA[Uncategorized]]></category>
+
+	<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+
+  <guid isPermaLink="false">http://www.bring.out.ba/npis-aplikacija-porezne-uprave-fbih-ne-radi-p</guid>
+	<description></description>
+	<content:encoded><![CDATA[<p>&Scaron;to je previ&scaron;e, previ&scaron;e. Čak i od Porezne uprave.</p>
+<p><a href="http://www.bring.out.ba/otvoreni-zahtjev-poreznoj-upravi-federacije-b">Prije dva mjeseca smo tražili od Porezne uprave FBiH (PUFBiH)</a> da obezbjedi funkcionisanje nPIS aplikacije na non-Windows OS-ovima. Tom prilikom smo dobili informaciju da aplikacija bez problema podržava sve zastupljene internet browsere i operativne sisteme.</p>
+<p>Dva mjeseca nakon toga, nakon &scaron;to smo napravili niz Linux/Ubuntu desktop instalacija, na "svojoj koži" smo osjetili da je ta informacija PUFBiH bila obična obmana.</p>
+<p>Naime, nPIS kod zadnje operacije (potpis podne&scaron;enog obrasca) traži nekakvu Active-X kontrolu, &scaron;to naravno onemogućava svakog korisnika non-Windows OS-a da ovu operaciju obavi.&nbsp;</p>
+<p>Po prijavi problema, na&scaron;i klijenti od službenika PUFBiH dobjaju informaciju:</p>
+<blockquote class="posterous_short_quote">
+<p>Va&scaron; certifikat za nPIS je ispravan. Na&scaron; sistem je u redu. Problem je na Va&scaron;oj strani. Obratite se svojim informatičarima za rje&scaron;enje problema.&nbsp;</p>
+</blockquote>
+<p>U startu besmislica. Pa naravno da je u certifikat za pristup ispravan. Kako bi se uop&scaron;te logirali na aplikaciju i podnijeli obrazac na procesiranje da certifikat nije ispravan ?!</p>
+<p>Zato smo jutros Poreznoj upravi uputili mail sljedećeg sadržaja:</p>
+<p><!--more--></p>
+<blockquote>
+<p>nPIS aplikacija ne radi pod non-Windows sistemima, provjereno</p>
+<p>From :<span style=""> </span>Ernad Husremovic&nbsp;</p>
+<p>Subject :<span style=""> </span>nPIS aplikacija ne radi pod non-Windows sistemima, provjereno</p>
+<p>To :<span style=""> </span>IT Podr&scaron;ka PUFBiH</p>
+<p>Cc :<span style=""> </span>PR PUFBiH, bring.out.ba podr&scaron;ka&nbsp;</p>
+<p>Wed, Jun 06, 2012 08:52 AM</p>
+<p>Po&scaron;tovani,</p>
+<p>zatečeni smo Va&scaron;im posljednjim odgovorom po problemu: [Request ID :##29802##] : "nPIS google chrome, problem sa potpisivanjem obrazaca"</p>
+<p>Naime, mi smo po ovom pitanju pitanju obratili 20.03.2012 &nbsp;(va&scaron; broj ##28074##) pod naslovom:</p>
+<p>"nPIS aplikacija kori&scaron;tenje pod non-Windows operativnim sistemima"</p>
+<p>Pri tome ste nam na kraju dali sljedeću informaciju:</p>
+<p>&gt; Zahtjevani operativni sistemi: Windows OS (XP, Vista, W7) su bitni samo kod preuzimanja digitalnog certifikata.</p>
+<p>&gt; U tom smislu jesu obavezni, kao &scaron;to &gt; prikazuje i slika koju ste nam poslali u prvom mailu gdje se to jasno navodi.</p>
+<p>&gt; <strong><span style="color: #ff0000; font-size: medium;">Nakon preuzimanja digitalng certifikata, rad u nPIS aplikaciji apsolutno nije ograničen niti na operativni sistem, niti na određeni internet pretraživač.</span></strong></p>
+<p>&gt; Ako nemate drugu opciju kao korisnik non-Windows OS-a, onda možete tražiti od ispostave da preuzme certifikat na Windows OS-u, te da dogovorite način preuzimanja istog (putem maila, memorijskog sticka ili sl.) kako biste mogli koristiti dostupnu aplikaciju nPIS.</p>
+<p>O tome smo pisali na na&scaron;em članku ovdje:</p>
+<p><a href="http://www.bring.out.ba/otvoreni-zahtjev-poreznoj-upravi-federacije-b">http://www.bring.out.ba/otvoreni-zahtjev-poreznoj-upravi-federacije-b</a></p>
+<p>Jo&scaron; prilikom na&scaron;eg prvog obraćanja izrazili smo sumnju da Va&scaron;a aplikacija iz nekog razloga traži prisustvo određenih Active-X controla.</p>
+<p>Vi ste to svojim odgovorom negirali.</p>
+<p>Međutim, kao "rje&scaron;enje" ##29802## problema navodite instalaciju Active-X kontrola.</p>
+<p>Da li je moguće da va&scaron;a IT podr&scaron;ka ne zna da je Active-X Microsoft-only tehnologija ?!</p>
+<p>Po svemu sudeći jeste.</p>
+<p>Stoga je informacija koju ste nam tom prilikom dali:</p>
+<p>&gt; rad u nPIS aplikaciji apsolutno nije ograničen niti na operativni sistem, niti na određeni internet pretraživač.</p>
+<p>NETAČNA.</p>
+<p>Vodeći se informacijama koje smo dobili od Vas, mi smo svoje klijente informisali da ne postoji nikakva prepreka da nPIS aplikaciju koriste na Linux/Ubuntu sistemima.</p>
+<p>Stavili ste nas u nezavidni položaj i izazvali veliku &scaron;tetu u na&scaron;em poslovanju.</p>
+<p>Na&scaron;i klijenti Linux/Ubuntu desktop sistema dobijaju informaciju od službenika PUFBiH kako je na strani PUFBiH sve ok, te da je uzrok problema na strani klijenta. To je netačno. Ge&scaron;ka je na strani Va&scaron;eg sistema !</p>
+<p>Pod hitno tražimo Va&scaron; odgovor po ovom pitanju i rje&scaron;enje ovog problema.</p>
+<p>Tražimo da ODMAH na svojim službenim stranicama informi&scaron;ete klijente da Va&scaron;a aplikacija sadrži nedostatak (BUG) koji onemoguća nesmetano kori&scaron;tenje za korisnike ne-Windows operativnih sistema.</p>
+<p>Ukoliko ovo ne učinite, poduzećemo sve &scaron;to nam je na raspolaganju da nadoknadimo &scaron;tetu koje ste nanijeli na&scaron;em poslovanju.</p>
+<p>Pozdrav,</p>
+<p>Ernad Husremović, direktor</p>
+</blockquote>
+<p>Radi potpunosti informacije, ovo je korespondencija između na&scaron;eg servisera i podr&scaron;ke Porezne uprave:</p>
+<blockquote>
+<p>----- Original Message -----</p>
+<p>From: IT Podr&scaron;ka PUF BiH</p>
+<p>To: Emir, serviser bring.out</p>
+<p>Cc: podrska PUF BiH</p>
+<p>Sent: Tuesday, June 5, 2012 12:23:08 PM</p>
+<p>Subject: FwdRe: [Request ID :##29802##] : nPIS google chrome, problem sa potpisivanjem obrazaca</p>
+<p>Po&scaron;tovani,</p>
+<p><span style="color: #ff0000; font-size: medium;"><strong>Mala ispravka</strong></span> u odnosu na opisano u mailu ispod. Potpis prijava u nPIS radi i u ostalim browserima, ali očigledno ima problem sa preuzimanjem<span style="color: #ff0000; font-size: medium;"><strong> active-x</strong></span> komponente potrebne za potpis ako browser nije int. explorer. Iz tih razloga, &scaron;aljemo vam u prilogu instalacioni paket za active-x komponentu koja se koristi za potpisivanje, koju trebate instalirati na računar sa kojih koristite nPIS aplikaciju.</p>
+<p>Nakon instalacije, potpis prijava bi trebao biti OK, a ako bude problema po&scaron;aljite nam screen-shot sa gre&scaron;kom koja se javlja.</p>
+<p>Lp, IT podr&scaron;ka</p>
+<p>Po&scaron;tovani,</p>
+<p>potpisivanje prijava u nPIS aplikaciji se može raditi isključivo u okviru internet explorera jer active-x komponenta koja se koristi za potpisivanje prijava radi samo u okviru ovoga browsera.</p>
+<p>Ostali preduslovi za kori&scaron;tenje aplikacije su navedeni na sljedećem linku:</p>
+<p><a href="http://www.pufbih.ba/images/stories/epp_docs/USLOVI.pdf">http://www.pufbih.ba/images/stories/epp_docs/USLOVI.pdf</a> .</p>
+<p>Dakle, problem možete rije&scaron;iti samo kori&scaron;tenjem internet explorera kod potpisivanja prijava.</p>
+<p>Lp, IT podr&scaron;ka</p>
+<p>Category : nPIS aplikacija</p>
+<p>Description : Po&scaron;tovani,</p>
+<p>kontaktirao sam Va&scaron;e kolege na 033/269-929,</p>
+<p>rekli su da Vam se javim na ovaj mail vezano za problem sa nPIS aplikacijom.</p>
+<p>Naime radi se o problemu sa potpisivanjem obrazaca u nPIS aplikaciji.</p>
+<p>Aplikacija se koristi preko browsera google Chrome (OS: Ubuntu Linux).</p>
+<p>Import obrazaca je uredu, međutim potpisivanje istih ne funkcioni&scaron;e.</p>
+<p>Nema nikakve obavijesti o gre&scaron;ci ili slično,</p>
+<p>samo informacija da se obratimo Va&scaron;oj podr&scaron;ci ukoliko potpisivanje traje duže od nekoliko minuta.</p>
+<p>Probali smo potpisati obrazac vi&scaron;e puta, ali se uvijek javlja isti problem.</p>
+<p>Molio bih Vas da nas kontaktirate &scaron;to prije vezano za ovaj problem,</p>
+<p>jer nam je ovo hitno radi na&scaron;ih klijenata.</p>
+<p>Lijep pozdrav</p>
+<p>veza, na&scaron; broj: #28239, #28286<br />---<br />Emir,&nbsp;podr&scaron;ka bring.out</p>
+</blockquote>
+<p>&nbsp;</p>]]></content:encoded>
+	<excerpt:encoded><![CDATA[ to je previše, previše. Čak i od Porezne uprave. Prije dva mjeseca smo tražili od Porezne uprave FBiH (PUFBiH) da obezbjedi funkcionisanje nPIS aplikacije na non-Windows OS-ovima. Tom prilikom smo dobili informaciju da aplikacija bez problem...]]></excerpt:encoded>	
+
+	<wp:post_date>Wed Jun 06 00:12:00 -0700 2012</wp:post_date>
+	<wp:post_date_gmt>Wed Jun 06 00:12:00 -0700 2012</wp:post_date_gmt>
+	<wp:comment_status>open</wp:comment_status>
+	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>136272825</wp:post_id>
+	<wp:post_name>npis-aplikacija-porezne-uprave-fbih-ne-radi-p</wp:post_name>
+	<wp:status>publish</wp:status>
+	<wp:post_parent>0</wp:post_parent>
+	<wp:menu_order>0</wp:menu_order>
+	<wp:post_type>post</wp:post_type>
+	<wp:post_password></wp:post_password>
+	<wp:is_sticky>0</wp:is_sticky>
+
+	
+		<wp:comment>
+			<wp:comment_id>11099240</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[bring.out doo Sarajevo]]></wp:comment_author>
+			
+			<wp:comment_date>Wed Jun 06 00:45:02 -0700 2012</wp:comment_date>
+			<wp:comment_date_gmt>Wed Jun 06 00:45:02 -0700 2012</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[http://forum.linux.org.ba/viewtopic.php?pid=55270#p55270]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+		<wp:comment>
+			<wp:comment_id>11201719</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
+			<wp:comment_date>Fri Jul 06 01:10:04 -0700 2012</wp:comment_date>
+			<wp:comment_date_gmt>Fri Jul 06 01:10:04 -0700 2012</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[&gt; From :     IT Podrška PUF BiH
+&gt; Subject :     Zahtjev : ##29802## podnešen sa Vaše strane je zatvoren
+&gt; To :    serviser bring.out
+
+&gt; Fri, Jun 08, 2012 09:17 AM
+&gt; Poštovani,
+
+&gt; Zahtjev koji se podnijeli Poreznoj Upravi je zatvoren. 
+&gt; Naslov zahtjeva je : nPIS google chrome, problem sa potpisivanjem obrazaca
+
+&gt; Rješenje(odgovor) je : Poštovani,
+
+&gt; Aplikacija nPIS je primarno napravljena i projektovana da radi na windows klijentskim stanicama (sve vrste Win OS-a).
+
+&gt; Aplikacija nPIS radi u svim pretaživačima (i. explorer, google chrome, firefox).
+&gt; Aplikacija nPIS radi i na ostalim OS-ovima (npr.Linux) i svim pretraživačima, 
+ali potpisivanje prijava u nPIS NE RADI ako OS nije Windows jer je obavezna komponenta kod potpisa Active-X kontrola koja jeste Microsoft-ov proizvod i primjenjuje se samo na Microsoft OS-ovima (Win).
+
+&gt; Porezna uprava će napraviti analizu i procjeniti da li je moguće napraviti komponentu za potpisivanje prijava u nPIS-u, na non-Windows OS-ovima, 
+te će javnost blagovremeno informisati o tome putem obavještenja na web stranici www.pufbih.ba .
+
+&gt; Lp, IT podrška
+
+&gt; Kompletne detalje o ovome zahtjevu možete vidjeti na sljedećem linku: http://help.fpu.gov.ba/WorkOrder.do?woMode=viewWO&amp;woID=29802
+
+&gt; S poštovanjem,
+&gt; Sektor za informacionu tehnologiju Porezne Uprave Federacije Bosne i Hercegovine
+]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+</item>

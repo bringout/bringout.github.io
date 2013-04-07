@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<link href='../../../exports.css' rel='stylesheet'>
+<link href='../../../exports.css' rel='stylesheet'>
+
+</head>
+<body>
+<div id='wrap'>
+<div id='header'>
+<h1>bring.out</h1>
+<h2>This is an archived post
+This is an archived post
+</h2>
+</div>
+<div id='content'><div id='nav'>
+<a href="../../../posts/2010/12/bringout-suspenduje-svoje-operacije-u-ulozi-s.html">Previous</a>
+&nbsp; 
+<a href="../../../index-2.html">Index</a>
+&nbsp; 
+<a href="../../../posts/2010/11/sta-sa-fmk.html">Next</a>
+</div>
+<div class='post'>
+<div class='post_header'>
+<h3>Fiskalizacija, Tring Favourite Plus, tehničke pripreme 1</h3>
+<div class='post_info'>
+<span class='post_time'>December 12 2010,  4:42 AM</span>
+<span class='author'>&nbsp;by bring.out doo Sarajevo</span>
+</div>
+</div>
+<div class='post_body'><p><span style="font-size: medium;"><em><strong><span style="color: #ff0000;">Update 14.12.2010:</span></strong><span style="color: #ff0000;"> <a href="/bringout-suspenduje-svoje-operacije-u-ulozi-s">"bring.out" suspenduje svoje operacije servisera i distributera fiskalnih sistema</a></span></em></span></p>
+<p>Većina na&scaron;ih dosada&scaron;njih operacija po pitanju fiskalizacije odnosila se administrativne operacije (priprema <a href="/fiskalizacija-ugovor">ugovora</a>, tumačenje zakona, kontakte sa klijentima itd). U petak 10.12.2010, napravili smo i prve značajne pripreme u tehničkom dijelu projekta.</p>
+<p>Rezultate tih priprema objavljujemo u ovim video materijalima:</p>
+<p><!--more--><span style="text-decoration: underline; font-size: medium;"><strong>TFP(*) kao registar kasa</strong></span></p>
+<p>Prvi video odnosi se na testiranja TFP sistema kao obične registar kase:</p>
+<p><iframe src="http://www.youtube.com/embed/zTQO03s8nLs?wmode=transparent" allowfullscreen frameborder="0" height="417" width="500"></iframe></p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>TFP, zamjena rolne</strong></span></p>
+<p>S obzirom na to da je na&scaron;a uloga podr&scaron;ka i servisiranje fiskalnih sistema, na&scaron; fokus je bio odgovor na pitanje:</p>
+<blockquote class="posterous_short_quote">
+<p>&Scaron;ta će na&scaron;im klijentima prestavljati najveće probleme pri radu sa fiskalnim sistemom ?</p>
+</blockquote>
+<p>Uočili smo da je zamjena rolne jedna od takvih operacija. Zato smo za to napravili poseban video materijal:</p>
+<p><iframe src="http://www.youtube.com/embed/gmyZFWyXLbk?wmode=transparent" allowfullscreen frameborder="0" height="417" width="500"></iframe></p>
+<p><span style="font-size: medium;"><strong><span style="text-decoration: underline;">TFP, u režimu fiskalnog &scaron;tampača</span></strong></span></p>
+<p>U ovom videu prikazuje se rad TFP-a u režimu fiskalnog &scaron;tampača. Na&scaron; prvi zadatak je bila implementacija osnovnih funkcija u FMK POS(**) modulu.&nbsp;</p>
+<p>Komunikaciju sa Tring serverom smo uspostavili HTTP komunikacijom.</p>
+<p>Uspje&scaron;no smo implementirali izdavanje računa i reklamiranog računa.</p>
+<p>Nismo uspjeli inicijalizirati(***) uređaj iz POS software-a.</p>
+<p><iframe src="http://www.youtube.com/embed/9ooW4X9CQw8?wmode=transparent" allowfullscreen frameborder="0" height="417" width="500"></iframe></p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>TFP, zaključci hardware &amp; software</strong></span></p>
+<p><iframe src="http://www.youtube.com/embed/3KkPbxRc37U?wmode=transparent" allowfullscreen frameborder="0" height="417" width="500"></iframe></p>
+<p>Prilikom ovog testa uočili sljedeće:</p>
+<p><span style="text-decoration: underline;"><strong>Software</strong></span></p>
+<ol>
+<li>inicijalizacija kase - prelazak u režim fiskalnog &scaron;tampača iz POS software-a ne radi(****)</li>
+<li>HTTP server je otvoren, bitan <span style="color: #ff6600;"><strong>sigurnosni propust </strong></span></li>
+<li>Opcija slanja operatera (kasira) uz svaki račun nije implementirana</li>
+<li>Server(*****) je neosjetljiv na XML gre&scaron;ke, prilikom gre&scaron;aka ne daje previ&scaron;e korisnih informacija</li>
+<li>Server generalno daje malo informacija (oskudan LOG za potrebe dijagnostike)</li>
+<li>Kod simultanog slanja vi&scaron;e računa, Server redovno "<strong><span style="color: #ff6600;">proguta</span></strong>" zahtjeve ostalih dok je zauzet obradom prvog računa. Klijent ne dobije nikakvu poruku o gre&scaron;ci.&nbsp; </li>
+<li>Operacije Upali/Ugasi serversku aplikaciju bile su česte. Imamo bojazan da će biti potrebe za tim i kod korisnika</li>
+</ol>
+<p><span style="text-decoration: underline;"><strong>Hardware</strong></span></p>
+<ol>
+<li>Zamjena rolne će biti problematična operacija za korisnike</li>
+<li>tipke su porilično "tvrde" u režimu registar kase</li>
+</ol>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>Rezime</strong></span></p>
+<p>Na&scaron;a generalna ocjena na&scaron;eg fiskalnog sistema nije zadovoljavajuća.</p>
+<p>Postavlja se logično pitanje za&scaron;to smo ovo objavili ?!</p>
+<p>Objavili smo to zato &scaron;to smo mi <a href="/pages/knowhow-level#halal">otvorena firma</a>. Mi svojim korisnicima iznosimo činjenice, bez obzira da li nam one idu u prilog ili ne.</p>
+<p>S obzirom da za par dana kreće prvi krug fiskalizacije, na&scaron;a je <strong>obaveza</strong> klijentima iznijeti trenutno stanje stvari.</p>
+<p>Na&scaron;a uloga po pitanju otklanjanja ovih nedostataka je ograničena. Ono &scaron;to možemo, i &scaron;to ćemo odmah učiniti, jeste ove informacije odmah proslijediti proizvođaču.</p>
+<p>Po pitanju otklanjanja nedostataka na hardware-u se vjerovatno ne može puno učiniti.</p>
+<p>Međutim, korekcije na software-u su moguće. Korekcije po tačkama 1-3 su neophodne da bi se fiskalni sistem uop&scaron;te postavio kod klijenta.&nbsp;</p>
+<p>Nadamo se da će kolege iz Tring-a brzo otkloniti uočene nedostatke, te da ćemo biti u mogućnosti na&scaron;im klijentima isporučiti potpuno funkcionalan fiskalni sistem.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>O video materijalima</strong></span></p>
+<p>Nakon &scaron;to smo napravili snimanje, uočili smo niz nedostataka: simultani govor u materijalu otežava slu&scaron;anje, "voditelju" je ispala potko&scaron;ulja :), ima dosta saplitanja - lapsusa u govoru,&nbsp; itd ...</p>
+<p>Ali, i pored svih tih nedostataka, na&scaron;i klijenti na ovaj način dobijaju potrebne informacije, &scaron;to je za nas najbitnije.&nbsp; &nbsp;</p>
+<p>----</p>
+<p>(*) TFP - Tring favourite plus fiskalni sistem</p>
+<p>(**) POS - Point of sale - modul prodaje</p>
+<p>(***) Inicijalizacija - prebacivanje TFP-a iz režima registar kase u režim fiskalnog &scaron;tampača</p>
+<p>(****) Naravno, ovo su konstatacije na osnovu informacija i dokumentacije koja je nama bila dostupna. Kori&scaron;ten je sofware skinut sa download sekcije kase.ba, te informacije koje su postirane na forumima (tu generalno postoji malo informacija)</p>
+<p>(*****) Server - Serverska aplikacija Tring.Fiscal.Server</p></div>
+<div class='post_tags'>
+<h4>Tags</h4>
+<div class='post_tags_list'>fiskalizacija, fmk</div>
+</div>
+<div class='post_responses'>
+<h4>14335 views and 3 responses</h4>
+<ul class='post_responses list'>
+<li class='response clearfix'>
+<div class='response_header'>
+<div class='response_time'>Dec 13 2010,  1:16 AM</div>
+<div class='response_name'>Ernad Husremović responded:</div>
+</div>
+<div class='response_body'>Od kolege Nihada iz Tringa smo putem email-a dobili komentare na video materijale. Nihadovi komentari su označeni ">", a moji odgovori su ispod:<p>> 1. Zamjena papira – jako loše prezentirano sa Vaše strane kao ovlaštenog servisera. Kolege su napomenule kako izvršiti zamjenu papira za 40 sec. U tom slučaju ne treba „metalni valjčić“ i treba skinuti „graničnik“ na traci za namotavanje.</p><p>Ne znam gdje su kolege to napomenule. Pretpostavljam da se radi o obuci za servisere. Jasmin bring.out je demonstrirao ono što je on savladao. Onda nije dobro ovladao tom operacijom. To je odlična vijest. Hvala na informaciji. Čim to savladamo mi ćemo objaviti novi video u trajanju 40 sec :).</p><p>Međutim Jasmin je odgovorno tvrdim odličan serviser, pa moram reći da će mi tek njegov sud dati konačnu sliku po ovom pitanju.</p><p>> 2. Ulazak u režim FP. Nije mi jasno da niste konsultirali dokumentaciju za TringFavourite Plus. Pogledajte, postoji sistemski parametar čijim zadavanjem, prilikom paljenja kase automatski ulazi u sistem FP. Printer čeka vašu naredbu inicijalizacija.xml 60 sekundi, nakon čega se vraća u režim fiskalne kase.</p><p>Konusltovali smo dokumentaciju - fusnota (***) članka. I tu smo puno vremena potrošili, prema primjerima pokušali, ali nismo uspjeli. Moguće je da se i ovdje radi o našem neznanju.<br />Međutim, činjenica je da smo uspjeli račune podesili brzo. I da bi to bilo još brže da na serveru postoji bolja dijagnostika.</p><p>Sjećam se da se Saša bring.out, koji je pripremao softverski dio, najviše zadržao na stavci izdavanja računa bez poznatog kupca. On je unutar računa navodio "&lt;kupac>&lt;/kupac>", da bi server to jednostavno "progutao" bez ikakve poruke o grešci. To smo i naveli u tačci 5. software.</p><p>Na kraju, račun je uspješno procesiran kada smo skroz izbacili ovu sekvencu.</p><p>> 3. Logiranje operatera – inicijalizacija.xml, dovoljno je pozvati prilikom logiranja u Vašu pos aplikaciju.</p><p>I ovo smo na razne načine pokušavali ali smo dobili (po sjećanju govorim) Xml odgovor: "logiranje neuspješno"</p><p>> 4. Gutanje stavki kod mrežnog moda – Mi smo postavili opciju da Http server može istovremeno primiti samo jedan zahtjev – 1 konkurentna konekcija, dok će ostale odbiti. Jedino smo ovako mogli riješiti problem kod HTTP postanja. U svakom drugom slučaju smo izloženi dodatnom handliranju i mogućnosti štampanja stavki sa oba zahtjeva.</p><p>Izvini, ali ovo naprosto nije dobro rješenje. Kada se obični HTTP server podesi da prima samo jedan zahtjev, onda on treba klijentskoj aplikaciji reći - ne mogu više. Znači mora odgovoriti, a ne "ćutke" progutati zahtjev. To je jedini korektan način handliranja ovog ograničenja.</p><p>Ponavljam: mi ne kažemo da server mora moći procesirati više računa odjednom (iako je to tehnički moguće), nego da na neuspješan zahtjev mora doći odgovor servera: "ne primam zahtjev, već obrađujem jedan račun".</p><p>> 5. Upali/ugasi server – Mi smo max. Koristili try/catch opcije kako bismo izbjegli „zaštopavanje aplikacije“. Ipak, treba vidjeti da li postoji neki dio koda koji pravi problem.</p><p>Naglašena je bojazan. Try/catch treba vidjeti na log konzoli servera, a to je u našim testovima izostalo.<br />Tačke 5. i 7. navedene u software/nedostaci visoko koreliraju.</p><p>> Generalno, jako sam nezadovoljan Vašom prezentacijom. Nekom ko ovo gleda sa strane ispada da je uređaj „katastrofa“. Nekom ko je ovlašteni servis naših uređaja, Vaša prezentacija daje blijedu sliku Vašeg znanja o uređajima.</p><p>Mi svojim klijentima pokazujemo ono što smo MI U OVOM TRENUTKU kadra ponuditi.</p><p>Ako su prikazani nedostaci prevashodno rezultat našeg neznanja, to je dobro iz dva razloga:<br />1) Oni će se do drugog kruga ispraviti<br />2) Dobro je da naši klijenti znaju s kim imaju posla. Ako je to tako, mi onda u ovom trenutku nismo pouzdan partner za implementaciju fiskalnih sistema kod korisnika.</p><p>Mi ćemo dati sve od sebe sve nedostatke na našoj strani ispravimo.</p><p>Međutim, i nakon ovih komentara kolege Nihada, smatram da je adresa  za otklanjanje većine uočenih nedostataka Tring, a ne bring.out</p><p>Tu pomoć očekujemo i na nju računamo.</p></div>
+</li>
+<li class='response clearfix'>
+<div class='response_header'>
+<div class='response_time'>Dec 13 2010,  1:18 AM</div>
+<div class='response_name'>Jasmin responded:</div>
+</div>
+<div class='response_body'>> 1. Zamjena papira – jako loše prezentirano sa Vaše strane kao ovlaštenog servisera. Kolege su napomenule kako izvršiti zamjenu papira za 40 sec. U tom slučaju ne treba „metalni valjčić“ i treba skinuti „graničnik“ na traci za namotavanje.<p>Korisnička uputstva su konsultirana, ali ništa po ovom pitanju dokumentaciji nema, moguće je da je u toku obuke ovo pominjano ali se definitivno fokus nije davao zamjeni papira. Ako je metalni valjak nepotreban treba ga izbaciti iz pakovanja jer stvara pometnju.</p><p>> 2. Ulazak u režim FP. Nije mi jasno da niste konsultirali dokumentaciju za TringFavourite Plus.</p><p>Dokumentacija je konsultirana, tu smo i imali dosta problema jer je informacija u uputama pogrešna:</p><p>>Prelazak u drugi mod rada se vrši naizmjeničnim pritiskom tastera &lt;smn> i &lt;ΚΑlΚ>. Displeji prikazuju: ” NP-FISK.ŠTAMPAČ”. Sa tasterom &lt;pon> vi ulazite u mrežni režim rada, sa tasterom &lt;np> - u fiskalni printer mod</p><p>na našem modelu tipke KALK nije bilo tek smo kasnije sa slika uređaja povezali da je to na našem uređaju tipka PRN</p><p>kasnije smo i na tring forumima našli informaciju da je bilo dosta upita po ovom pitanju.</p><p><a href="http://www.kase.ba/forum/viewtopic.php?f=7&t=39" rel="nofollow">http://www.kase.ba/forum/viewtopic.php?f=7&t=39</a></p><p>sistemski parametar nismo ni pokušavali gledati jer citiram sa linka</p><p>>Postoji i parametar u Sekciji Programiranje ali to ne koristite da slučajno ne bi fiskalizirali kasu.</p><p>U svakom slučaju u serviserskom uputstvu pod mjenjenjem modova rad ovaj se sistemski parametar ne pominje.</p><p>U svakom slučaju ove stvari bi trebali bolje uvezati na nivou tring serviser - ovlašteni serviser, neki serviserski wiki sa hintovima bi bio super stvar.</p><p>Na samoj obuci tring server nije bio spreman pa je obuka bila 99% vezana sa fiskalnu kasu a ne štampač, moguće da su u kasnijem krugu obuke i ove stvari objašnjavali ali kada smo mi bili o ovome nije bilo ni govora.</p></div>
+</li>
+<li class='response clearfix'>
+<div class='response_header'>
+<div class='response_time'>Dec 13 2010,  1:53 AM</div>
+<div class='response_name'>Ernad Husremović responded:</div>
+</div>
+<div class='response_body'>radi potpunosti, dodajem da je odmah nakon objave na našem sajtu, ovaj informacija objavljena i na Tring forumima: <a href="http://www.kase.ba/forum/viewtopic.php?f=7&t=57" rel="nofollow">http://www.kase.ba/forum/viewtopic.php?f=7&t=57</a></div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,57 @@
+<item>
+	<title>knowhow ERP - &quot;P1&quot;, &quot;F18&quot;</title>
+	<link>http://www.bring.out.ba/knowhow-erp-p1-f18</link>
+	<pubDate>Thu May 03 00:57:00 -0700 2012</pubDate>
+	
+	<dc:creator><![CDATA[bring.out doo Sarajevo]]></dc:creator>
+	
+	
+		<category domain="tag" nicename="b_F18"><![CDATA[b_F18]]></category>
+	
+		<category domain="tag" nicename="b_knowhow"><![CDATA[b_knowhow]]></category>
+	
+
+	<category><![CDATA[Uncategorized]]></category>
+
+	<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+
+  <guid isPermaLink="false">http://www.bring.out.ba/knowhow-erp-p1-f18</guid>
+	<description></description>
+	<content:encoded><![CDATA[<p>"knowhow ERP" je projekat sastavljen od vi&scaron;e <a href="http://redmine.bring.out.ba/projects/knowhow">podprojekata</a>.</p>
+<p>U predhodih pola godina na&scaron; razvoj usmjeren je na podprojekat knowhowERP&nbsp;<a href="http://redmine.bring.out.ba/projects/f18">"F18"</a>.&nbsp;</p>
+<p>Primarna korisnička ciljna grupa "F18" su na&scaron;i postojeći klijenti - korisnici na&scaron;eg starog ("legacy") rje&scaron;enja "FMK".</p>
+<p>Detaljnije informacije o F18 mogu se naći u članku <a href="http://www.bring.out.ba/legalizacija-software-a-ubuntulinux-desktop-f">Legalizacija software-a, Ubuntu/Linux desktop, F18 knowhow ERP</a>.</p>
+<p>U ovom periodu nismo direktno radili na GUI "P1" klijentu, koga smo <a href="http://do-we-know-how.bring.out.ba/knowhow-erp-developerski-sprint-1">demonstrirali krajem oktobra pro&scaron;le godine</a>.</p>
+<p>I pored značajnog napretka koji smo postigli sa P1, ostalo je jo&scaron; mnogo toga za uraditi da bi se dobilo kompletno ERP rje&scaron;enje prilagođeno na&scaron;em trži&scaron;tu.</p>
+<p><!--more--></p>
+<p>Kako se na&scaron;a očekivanja da ćemo otvorenim pristupom razvoju "knowhow ERP" pojačati razvojne resurse (sa drugim firmama i pojedincima koji su zainteresovani za ovu oblast) nisu ostvarila, bili smo prisiljeni redefinirati na&scaron;e ciljeve za ovu godinu.</p>
+<p>Sa "F18" smo u funkcionalnom smislu dobili kompletno knjigovodstveno rje&scaron;enje za na&scaron;e trži&scaron;te.</p>
+<p>U tehnolo&scaron;kom smislu "F18" je multiplatformski software (Ubuntu/Linux OS, Mac OS X, familija Windows NT OS) sa modernom bazom podataka (PostgreSQL). &nbsp;&nbsp;</p>
+<p>Glavni nedostaci "F18" za novog korisnika su:</p>
+<ul>
+<li>nedostatak atraktivnog korisničkog interfejsa kakav ima "P1" klijent</li>
+<li>nepostojanje sređene korisničke dokumentacije.&nbsp;</li>
+</ul>
+<p>Razlog je taj &scaron;to su u u fokusu razvoja "F18" korisnici "FMK". Na&scaron; cilj je bio napraviti rje&scaron;enje koje će u funkcionalnom smislu raditi ono &scaron;to radi i "FMK", sa unaprijeđenom tehnolo&scaron;kom osnovom.&nbsp;</p>
+<p>Tako je za korisnike "FMK" arhaični "F18" interfejs super stvar zato &scaron;to je gotovo identičan sa njima dobro poznatim&nbsp;"FMK" interfejsom.</p>
+<p><span style="text-decoration: underline; font-size: medium;"><strong>budućnost "P1"</strong></span></p>
+<p>Na&scaron; plan je reaktivirati aktivan razvoj "P1" klijenta po okonačanju migracije "FMK" korisnika na "F18". Očekujemo da ćemo u toku ove godine glavni dio procesa migracije i okončati.</p>
+<p>S obzirom na zajedničku tehnolo&scaron;ku osnovu "F18" i "P1" u sloju baze podataka, moguć je visok nivo integracije ali i spajanja pojedinih komponenti.</p>
+<p>&nbsp;</p>]]></content:encoded>
+	<excerpt:encoded><![CDATA["knowhow ERP" je projekat sastavljen od više podprojekata. U predhodih pola godina naš razvoj usmjeren je na podprojekat knowhowERP "F18". Primarna korisnička ciljna grupa "F18" su naši postojeći klijenti - korisnici našeg starog ("legacy") rješen...]]></excerpt:encoded>	
+
+	<wp:post_date>Thu May 03 00:57:00 -0700 2012</wp:post_date>
+	<wp:post_date_gmt>Thu May 03 00:57:00 -0700 2012</wp:post_date_gmt>
+	<wp:comment_status>open</wp:comment_status>
+	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>128300954</wp:post_id>
+	<wp:post_name>knowhow-erp-p1-f18</wp:post_name>
+	<wp:status>publish</wp:status>
+	<wp:post_parent>0</wp:post_parent>
+	<wp:menu_order>0</wp:menu_order>
+	<wp:post_type>post</wp:post_type>
+	<wp:post_password></wp:post_password>
+	<wp:is_sticky>0</wp:is_sticky>
+
+	
+</item>

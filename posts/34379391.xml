@@ -1,0 +1,64 @@
+<item>
+	<title>FMK ipak ne radi</title>
+	<link>http://www.bring.out.ba/fmk-ipak-ne-radi</link>
+	<pubDate>Fri Oct 29 05:56:00 -0700 2010</pubDate>
+	
+	<dc:creator><![CDATA[bring.out doo Sarajevo]]></dc:creator>
+	
+	
+		<category domain="tag" nicename="fmk"><![CDATA[fmk]]></category>
+	
+		<category domain="tag" nicename="old_www"><![CDATA[old_www]]></category>
+	
+
+	<category><![CDATA[Uncategorized]]></category>
+
+	<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+
+  <guid isPermaLink="false">http://www.bring.out.ba/fmk-ipak-ne-radi</guid>
+	<description></description>
+	<content:encoded><![CDATA[
+<div style="font-family: Times New Roman; font-size: 12pt;"><span style="font-weight: bold;">&nbsp;29.10.2010 <br /></span><strong>&nbsp;</strong>
+<p>Eto i taj dan je do&scaron;ao. Početak kraja Fmk. Iako sam&nbsp; rekao da i <a href="bringout-stara-stranica#fmk_radi">pored tehnolo&scaron;ke zastarjelosti Fmk radi</a>, to ipak nije istina.</p>
+<p>Kod korisnika koji ima najveću instalaciju Fmk stvar se do kraja "zapu&scaron;ila". Baza u robnom knjigovodsvu je dosegla veličinu koja se sa postojećim sistemom ne može obraditi.</p>
+<p>Pretraživanjem po netu smo do&scaron;li da u mrežnom načinu rada, ako neka tabela ima vi&scaron;e od 1GB podataka, baza počinje pucati. I to se upravo kod korisnika počelo de&scaron;avati. Upravo radimo na "workaround"-u, ali to je ipak obična "krpaža".</p>
+<p><!--more--></p>
+<p>Iako su ostali korisnici daleko od ovakvog limita, ipak se mora reći reći: Fmk ipak ne radi :(.</p>
+<p>Nakon &scaron;to smo konstatovali problem, korisnik nas je podsjetio na&nbsp; <a href="bringout-stara-stranica">sadržaj na&scaron;e stranice</a> i rekao: "Daj ba, pustite se &scaron;uplje".</p>
+<p>Evo odgovora koji smo uputili korisniku:</p>
+<blockquote class="posterous_medium_quote">
+<p><em>Potpuno nam je jasno da sa novom godinu morate napraviti promjenu sa nama ili bez nas. Zato smo i odredili rok 30.11.2010 u kome ćemo vas informisati o tome &scaron;ta mi sa svoje strane možemo ponuditi. Imaćete dovoljno vremena prije nove godine da odlučite &scaron;ta je najbolje za vas.</em></p>
+<p><em>&Scaron;to se informacija na stranici tiče, sve &scaron;to je najavljeno a nije realizovano naravno da jeste &scaron;upljaka.</em><br /><em>Međutim, to &scaron;to je napisano jeste bio i ostao na&scaron; cilj. Cilj koji do sada nismo uspjeli realizovati.</em></p>
+</blockquote>
+<p><em><br /></em></p>
+</div>]]></content:encoded>
+	<excerpt:encoded><![CDATA[29.10.2010 Eto i taj dan je došao. Početak kraja Fmk. Iako sam rekao da i pored tehnološke zastarjelosti Fmk radi, to ipak nije istina. Kod korisnika koji ima najveću instalaciju Fmk stvar se do kraja "zapušila". Baza u robnom knjigovodsvu je...]]></excerpt:encoded>	
+
+	<wp:post_date>Fri Oct 29 05:56:00 -0700 2010</wp:post_date>
+	<wp:post_date_gmt>Fri Oct 29 05:56:00 -0700 2010</wp:post_date_gmt>
+	<wp:comment_status>open</wp:comment_status>
+	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>34379391</wp:post_id>
+	<wp:post_name>fmk-ipak-ne-radi</wp:post_name>
+	<wp:status>publish</wp:status>
+	<wp:post_parent>0</wp:post_parent>
+	<wp:menu_order>0</wp:menu_order>
+	<wp:post_type>post</wp:post_type>
+	<wp:post_password></wp:post_password>
+	<wp:is_sticky>0</wp:is_sticky>
+
+	
+		<wp:comment>
+			<wp:comment_id>10106518</wp:comment_id>
+			
+				<wp:comment_author><![CDATA[Ernad Husremović]]></wp:comment_author>
+			
+			<wp:comment_date>Thu Nov 24 01:32:01 -0800 2011</wp:comment_date>
+			<wp:comment_date_gmt>Thu Nov 24 01:32:01 -0800 2011</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[http://redmine.bring.out.ba/issues/21489]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+		</wp:comment>
+	
+</item>

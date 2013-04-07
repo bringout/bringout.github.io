@@ -1,0 +1,45 @@
+<item>
+	<title>&quot;handri&quot; nas internet provajder</title>
+	<link>http://www.bring.out.ba/internet-provajder-nas-handri</link>
+	<pubDate>Wed Feb 16 10:04:00 -0800 2011</pubDate>
+	
+	<dc:creator><![CDATA[bring.out doo Sarajevo]]></dc:creator>
+	
+	
+
+	<category><![CDATA[Uncategorized]]></category>
+
+	<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+
+  <guid isPermaLink="false">http://www.bring.out.ba/internet-provajder-nas-handri</guid>
+	<description></description>
+	<content:encoded><![CDATA[<p>16.02.2011</p>
+<p>Drugi put u mjesec dana imamo cjelodnevni prekid jer je <a href="http://www.mh-company.ba">na&scaron; provajder</a>(*) nenajavljeno (i bezpovratno) promijenio na&scaron;u IP adresu :(</p>
+<p>Ovi problemi uzrokuju nedustupnost na&scaron;ih internet sadržaja (<a href="http://redmine.bring.out.ba">http://redmine.bring.out.ba</a>), ali i sadržaja korisnika koji ovise o na&scaron;im DNS serverima.</p>
+<p>Očekujemo stabilizaciju servisa u toku sutra&scaron;njeg dana. Svim na&scaron;im klijentima upućujemo izvinjenje, ali fakat nije do nas.</p>
+<p><!--more--><span style="text-decoration: underline; font-size: medium;"><strong>Tehnički detalji</strong></span></p>
+<p>Problem je &scaron;to nakon ove promjene sve domene koje hostira na&scaron; DNS server upućuju na pogre&scaron;nu adresu. Te adrese vanjski DNS serveri "ke&scaron;iraju" (cca 2 dana).</p>
+<p><span style="text-decoration: underline;"><strong>Kontrola</strong></span></p>
+<p>Sa komandom ping može se provjeriti da li je kod DNS-a va&scaron;eg internet provajdera do&scaron;lo do osvježenja:</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; root@atom-3:~# ping redmine.bring.out.ba<br />&nbsp;&nbsp;&nbsp;&nbsp; PING cable.bring.out.ba (<strong>80.80.47.246</strong>) 56(84) bytes of data.</p>
+<p>Znači, <strong>80.80.47.246</strong> je na&scaron;a nova IP adresa.</p>
+<p>---</p>
+<p>(*) E pravi su "kukuruz" provajder - <a href="http://hernad.bring.out.ba/internet-service-provider">http://hernad.bring.out.ba/internet-service-provider</a></p>
+<p>&nbsp;</p>]]></content:encoded>
+	<excerpt:encoded><![CDATA[16.02.2011 Drugi put u mjesec dana imamo cjelodnevni prekid jer je naš provajder(*) nenajavljeno (i bezpovratno) promijenio našu IP adresu :( Ovi problemi uzrokuju nedustupnost naših internet sadržaja (http://redmine.bring.out.ba), ali i sadržaja ...]]></excerpt:encoded>	
+
+	<wp:post_date>Wed Feb 16 10:04:00 -0800 2011</wp:post_date>
+	<wp:post_date_gmt>Wed Feb 16 10:04:00 -0800 2011</wp:post_date_gmt>
+	<wp:comment_status>open</wp:comment_status>
+	<wp:ping_status>open</wp:ping_status>
+	<wp:post_id>43257512</wp:post_id>
+	<wp:post_name>internet-provajder-nas-handri</wp:post_name>
+	<wp:status>publish</wp:status>
+	<wp:post_parent>0</wp:post_parent>
+	<wp:menu_order>0</wp:menu_order>
+	<wp:post_type>post</wp:post_type>
+	<wp:post_password></wp:post_password>
+	<wp:is_sticky>0</wp:is_sticky>
+
+	
+</item>
