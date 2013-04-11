@@ -52,7 +52,7 @@ grunt.registerMultiTask('htmlfix', 'fix HTML', function () {
       content = content.replace(regArchived, "(Ovaj članak je prebačen sa ranijeg posterous blog sistema)");
      
       var regPregledano = /(\d+) views and (\d+) responses.*<\/h4>/
-      content = content.replace(regPregledano, 'Pregleda $1, komentara: $2</h4>(Status na dan 07.04.2013 prema statistici dotadašnjeg posterous blog sistema)<hr/>');
+      content = content.replace(regPregledano, 'Pregleda $1, komentara: $2</h4>(Status na dan 07.04.2013 prema statistici posterous blog sistema)<hr/>');
 
 
       var regPosts= /(<ul class=\'post_responses list.*[\n\S\s]*ul>)/m
