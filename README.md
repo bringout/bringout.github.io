@@ -9,6 +9,6 @@ instaliraj grunt-bake sa github/hernad, napravi `posts.orig` direktorij, pokreni
     npm install
     cp -av posts posts.orig
     grunt
-    cp -av dest1/posts.orig/* posts/
+    cp -av dest/dest1/posts.orig/* posts/
 
 
